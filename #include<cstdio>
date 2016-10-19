@@ -1,0 +1,6 @@
+#include<cstdio>
+#include<iostream>
+
+int n, A[50];
+
+int solve(int i)
